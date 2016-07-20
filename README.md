@@ -11,6 +11,7 @@ iOS 开发规范，操作错误的，请向对方立刻发放 **10 元红包**
   let titleLabel = UILabel()
 ```
 - Swift 文件内不允许撰写多余的 self
+- service层的每个API都需要写注释
 
 ###格式
 - 两个函数之间需有一个换行
