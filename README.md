@@ -16,6 +16,12 @@ iOS 开发规范，操作错误的，请向对方立刻发放 **10 元红包**
 ###格式
 - 两个函数之间需有一个换行
 - 所有注释掉的代码函数或者空的函数都需要写说明否则删除
+- 表示跳转到某个页面的方法以动词<code>go</code>开头
+```Swift
+     private func goNewsDetailViewController(){
+        
+    }
+```
 
 ###项目
 - 不允许提交 PodLock 文件至 Git
